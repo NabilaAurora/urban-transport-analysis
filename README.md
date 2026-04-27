@@ -16,14 +16,11 @@ Future phases will expand to additional cities for comparative analysis.
 - Build a deeper, data-driven understanding through iterative analysis  
 
 ## Project Roadmap
-Phase 1 — Baseline Analysis (current)
-Basic exploration using simplified assumptions
+Phase 1 — Baseline Analysis (current): Basic exploration using simplified assumptions
 
-Phase 2 — Improved Time Modeling (coming soon)
-Handle overnight routes and improve time accuracy
+Phase 2 — Improved Time Modeling (coming soon): Handle overnight routes and improve time accuracy
 
-Phase 3 — Comparative Analysis (coming soon)
-Compare transport patterns across multiple cities
+Phase 3 — Comparative Analysis (coming soon): Compare transport patterns across multiple cities
 
 ## 🧠 Current Progress
 
