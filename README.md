@@ -18,19 +18,25 @@ Handle overnight routes and improve time accuracy
 Phase 3 — Comparative Analysis (coming soon)
 Compare transport patterns across multiple cities
 
-## Current Progress
-Phase 1 — Baseline Analysis
--[ ] Data loading
--[ ] Data understanding (df.shape, df.info)
--[ ] Data cleaning (handling missing & invalid time data)
--[ ] Feature engineering (operating_hours)
--[ ] Distribution analysis (operating hours)
--[ ] Relationship analysis (length vs operating hours)
--[ ] Initial insights & interpretation
+## 🧠 Current Progress
 
-Phase 2 — Improved Time Modeling (coming soon)
+### Phase 1 — Baseline Analysis
 
-Phase 3 — Comparative Analysis (coming soon)
+- [x] Data loading  
+- [x] Data understanding (`df.shape`, `df.info`)  
+- [x] Data cleaning (handling missing & invalid time data)  
+- [x] Feature engineering (`operating_hours`)  
+- [x] Distribution analysis (operating hours)  
+- [x] Relationship analysis (length vs operating hours)  
+- [x] Initial insights & interpretation  
+
+---
+
+### Phase 2 — Improved Time Modeling (coming soon)
+
+---
+
+### Phase 3 — Comparative Analysis (coming soon)
 
 ## ⚠️ Scope & Limitations
 - Analysis uses only routes with valid time data (~36%)
