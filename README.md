@@ -1,9 +1,11 @@
 ## Urban Transport Pattern Analysis
 ## 📌 Project Overview
 
-This project analyzes urban transport patterns (starting with a case study in Beijing, China) to understand how the system operates in terms of route structure, service duration, and overall activity.
+This project analyzes urban transport patterns to understand how the system operates in terms of route structure, service duration, and overall activity.
 
-Rather than a one-time analysis, this project is designed as a **multi-phase exploration**, where each phase improves the model, refines assumptions, and deepens understanding of the data.
+It begins with a case study in Beijing, China, and is designed as a **multi-phase exploration**, where each phase improves the model, refines assumptions, and deepens understanding of the data.
+
+Future phases will expand to additional cities for comparative analysis.
 
 ## 🎯 Goals
 
