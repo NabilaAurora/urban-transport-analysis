@@ -38,12 +38,6 @@ Compare transport patterns across multiple cities
 
 ### Phase 3 — Comparative Analysis (coming soon)
 
-## ⚠️ Scope & Limitations
-- Analysis uses only routes with valid time data (~36%)
-- Overnight routes are not included in Phase 1
-- Time calculation is approximated using (end_time - start_time) / 100
-- Spatial analysis is not included
-
 ## 🎯 Value of This Project
 
 This project provides a structured approach to understanding urban transport systems through:
