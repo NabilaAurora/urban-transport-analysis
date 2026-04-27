@@ -37,6 +37,10 @@ Compare transport patterns across multiple cities
 - [x] Relationship analysis  
 - [x] Group-based analysis  
 - [x] Final insights & limitations  
+## 📊 Interactive Dashboard
+
+Explore the interactive dashboard here:
+[[View Dashboard]](https://public.tableau.com/views/UrbanTransportPatternsPhase1Beijing/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ### Phase 2 — Improved Time Modeling (coming soon)
 
