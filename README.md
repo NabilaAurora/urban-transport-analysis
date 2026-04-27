@@ -49,23 +49,11 @@ This project provides a structured approach to understanding urban transport sys
 - Route structure insights
 - Data-driven reasoning
 
-## 🌱 Continuous Learning & Improvement
+## 🌱 Skills Demonstrated
 
-This project is designed as a continuous learning and improvement process in:
-
-- **Data cleaning & preprocessing**  
-  Improving how raw, imperfect data is handled and validated  
-
-- **Feature engineering**  
-  Transforming raw data into meaningful variables (e.g., operating hours)  
-
-- **Analytical thinking**  
-  Interpreting patterns, questioning assumptions, and validating results  
-
-- **Modeling assumptions**  
-  Identifying limitations (e.g., same-day assumption) and improving them over time  
-
-- **Data storytelling**  
-  Communicating insights clearly, including both findings and limitations  
-
-Each phase of this project reflects a deeper understanding of both the data and the analytical process.
+- **Python (Pandas, NumPy)** — data cleaning & preprocessing  
+- **Matplotlib** — data visualization and pattern analysis  
+- **Exploratory Data Analysis (EDA)** — understanding distributions and relationships  
+- **Feature Engineering** — transforming raw data into analytical features  
+- **Analytical Thinking** — questioning assumptions and refining models  
+- **Data Storytelling** — presenting insights with clarity and context  
