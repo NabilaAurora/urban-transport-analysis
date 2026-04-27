@@ -37,14 +37,27 @@ Compare transport patterns across multiple cities
 - [x] Relationship analysis  
 - [x] Group-based analysis  
 - [x] Final insights & limitations  
-## 📊 Interactive Dashboard
-
-Explore the interactive dashboard here:
-[[View Dashboard]](https://public.tableau.com/views/UrbanTransportPatternsPhase1Beijing/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ### Phase 2 — Improved Time Modeling (coming soon)
 
 ### Phase 3 — Comparative Analysis (coming soon)
+
+## 📊 Dashboards
+
+### Phase 1 — Beijing (Baseline Analysis)
+This dashboard presents the initial findings using simplified assumptions (same-day operation).
+
+👉 [[View Dashboard](https://public.tableau.com/views/UrbanTransportPatternsPhase1Beijing/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)]
+
+---
+
+### Phase 2 — Improved Time Modeling (coming soon)
+Handling overnight routes and improving time accuracy.
+
+---
+
+### Phase 3 — Multi-City Comparison (coming soon)
+Comparing transport patterns across different cities.
 
 ## 🎯 Value of This Project
 
