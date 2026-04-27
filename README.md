@@ -73,4 +73,20 @@ This project provides a structured approach to understanding urban transport sys
 - **Exploratory Data Analysis (EDA)** — understanding distributions and relationships  
 - **Feature Engineering** — transforming raw data into analytical features  
 - **Analytical Thinking** — questioning assumptions and refining models  
-- **Data Storytelling** — presenting insights with clarity and context  
+- **Data Storytelling** — presenting insights with clarity and context
+
+## 📄 Data Source
+
+This project uses the **China Public Transport Operation Network Dataset (CPTOND-2025)**, a large-scale dataset covering bus and metro systems across China.
+
+- 📊 Dataset: CPTOND-2025  
+- 🔗 Source: https://doi.org/10.6084/m9.figshare.29377427  
+- 📦 Platform: Figshare  
+
+This dataset provides detailed information on route structures, operational times, and network characteristics, enabling analysis of urban transport patterns.
+
+## 📚 Reference
+
+Wang, L., Wei, H., Guan, Y., Ouyang, L., Xu, D., Han, X., Zhang, M., Chen, M., Sun, D., Gong, D., Zhang, Z., Zhang, X., & Zhang, X. (2026).  
+**China Public Transport Operation Network Dataset (CPTOND-2025): National-Scale Bus-Metro Vector Dataset**.  
+*Scientific Data, 13*, Article 188.  
