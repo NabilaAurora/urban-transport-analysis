@@ -1,12 +1,17 @@
 ## Urban Transport Pattern Analysis (Beijing)
-📌 Project Overview
+## 📌 Project Overview
+
 This project analyzes urban bus transport patterns in Beijing to understand how the system operates in terms of route structure, service duration, and overall activity.
 
-## Goals
-- Analyze transport density
-- Understand route structures
-- Identify mobility patterns
-- Build a data-driven understanding of urban transport systems
+Rather than a one-time analysis, this project is designed as a **multi-phase exploration**, where each phase improves the model, refines assumptions, and deepens understanding of the data.
+
+## 🎯 Goals
+
+- Analyze transport density and route structure  
+- Understand operating patterns of urban transport systems  
+- Explore relationships between route characteristics and service behavior  
+- Continuously refine assumptions and improve analytical models  
+- Build a deeper, data-driven understanding through iterative analysis  
 
 ## Project Roadmap
 Phase 1 — Baseline Analysis (current)
