@@ -23,18 +23,15 @@ Compare transport patterns across multiple cities
 ### Phase 1 — Baseline Analysis
 
 - [x] Data loading  
-- [x] Data understanding (`df.shape`, `df.info`)  
-- [x] Data cleaning (handling missing & invalid time data)  
-- [x] Feature engineering (`operating_hours`)  
-- [x] Distribution analysis (operating hours)  
-- [x] Relationship analysis (length vs operating hours)  
-- [x] Initial insights & interpretation  
-
----
+- [x] Data understanding  
+- [x] Data cleaning  
+- [x] Feature engineering  
+- [x] Distribution analysis  
+- [x] Relationship analysis  
+- [x] Group-based analysis  
+- [x] Final insights & limitations  
 
 ### Phase 2 — Improved Time Modeling (coming soon)
-
----
 
 ### Phase 3 — Comparative Analysis (coming soon)
 
